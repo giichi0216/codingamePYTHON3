@@ -1,2 +1,2 @@
 # codingamePYTHON3
-codes for reference for the codingame in python3
+codes for reference for the codingame in python3 language
